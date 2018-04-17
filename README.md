@@ -15,6 +15,8 @@
 <h2 align="left">Модуль 2:</h2>
 
 Разработана UML-диаграмма классов
+<br>
+</br>
 Cсылки:
 <br>
 [Личная страница](https://veranevarenyh.github.io/)
