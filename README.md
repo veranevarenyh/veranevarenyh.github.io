@@ -6,6 +6,6 @@ Cсылки:
 <br>
 [Личная страница](https://veranevarenyh.github.io/)
 <br>
-[Выбранное задание](https://github.com/stankin/oop-2018/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%E2%84%961-(Class-Diagram))
+[Выполненное задание](https://github.com/veranevarenyh/veranevarenyh.github.io/wiki/UML-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2)
 <br>
 [Wiki-страница](https://github.com/veranevarenyh/veranevarenyh.github.io/wiki)
