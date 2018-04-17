@@ -3,8 +3,8 @@
 <br>
 Cсылки:
 <br>
-[Личная страница](https://VarvariucA.github.io)
+[Личная страница](https://veranevarenyh.github.io/)
 <br>
 [Wiki-страница с заданием](https://github.com/stankin/oop-2018/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%E2%84%961-(Class-Diagram))
 <br>
-[Личная Wiki-страница](https://github.com/VarvariucA/VarvariucA.github.io/wiki)
+[Личная Wiki-страница](https://veranevarenyh.github.io/wiki)
