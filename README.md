@@ -15,7 +15,9 @@
 Разработана UML-диаграмма классов
 <br>
 </br>
-Cсылки:
+
+<h2 align="left">Cсылки:</h2>
+<br>
 [Личная страница](https://veranevarenyh.github.io/)
 <br>
 [Выполненное задание](https://github.com/veranevarenyh/veranevarenyh.github.io/wiki/UML-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2)
