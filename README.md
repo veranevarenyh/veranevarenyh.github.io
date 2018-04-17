@@ -16,6 +16,7 @@
 <br>
 </br>
 
+<h2 align="left">Ссылки:</h2>
 Cсылки:
 <br>
 [Личная страница](https://veranevarenyh.github.io/)
