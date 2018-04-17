@@ -6,5 +6,5 @@ Cсылки:
 <br>
 [Личная страница](https://veranevarenyh.github.io/)
 <br>
-[Выбранное задание](https://github.com/stankin/oop-2018/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%E2%84%965-(Activity-Diagram))
+[Выбранное задание](https://github.com/stankin/oop-2018/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%E2%84%961-(Class-Diagram))
 <br>
